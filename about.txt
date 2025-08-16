@@ -1,0 +1,1 @@
+This is the project abut making an ai assistant to do tasks and reply me as a friend. I used here google gemini 2.0 flash exp
